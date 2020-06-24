@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/psgatwork/AssignmentLast/issues"
   },
-  "homepage": "https://github.com/psgatwork/AssignmentLast#readme"
+  "homepage": "https://github.com/psgatwork/AssignmentLast#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1"
+  }
 }
